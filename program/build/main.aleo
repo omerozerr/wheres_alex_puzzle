@@ -3,30 +3,6 @@ import multiparty_pvp_utils_v015.aleo;
 program wheres_alex_omer_main.aleo;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 record Game:
     owner as address.private;
     challenger_commit as field.private;

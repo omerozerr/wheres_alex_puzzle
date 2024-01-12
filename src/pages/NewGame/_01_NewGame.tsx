@@ -20,7 +20,7 @@ function NewGame() {
     <div className='flex h-full w-full flex-col items-center justify-between gap-2 px-5'>
       <Nav step={1} />
       <PageHeader
-        text='WHO WOULD YOU LIKE TO CHALLENGE?'
+        text='WHO U GONNA DESTROY?'
         bg='bg-primary-blue'
       />
       <input
