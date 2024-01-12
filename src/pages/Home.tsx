@@ -30,7 +30,7 @@ function Home() {
           }}
           disabled={!account}
         >
-          NEW GAME
+          U WANT TO PLAY A GAME?
         </Button>
         {yourTurn.length > 0 && <YourTurn games={yourTurn} />}
         {theirTurn.length > 0 && <TheirTurn games={theirTurn} />}

@@ -52,10 +52,10 @@ h1 {
 }
 
 .App {
-  background-image: url('../src/assets/puzzle_upside_down_left.png'),
-    url('../src/assets/puzzle_tilt_right.png'),
-    url('../src/assets/puzzle_tilt_left.png'),
-    url('../src/assets/puzzle_upside_down_right.png');
+  background-image: url('../src/assets/puzzle2.png'),
+    url('../src/assets/puzzle2.png'),
+    url('../src/assets/puzzle2.png'),
+    url('../src/assets/puzzle2.png');
 
   background-position:
     left 10%,
